@@ -1,0 +1,1 @@
+print("Tu nombre de empresa es: "+ input("Tu inicial de empresa es: ")+ input("dime la segunda letra de tu apellido"))
